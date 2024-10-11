@@ -132,6 +132,8 @@ body {
   justify-content: center;
   justify-items: center;
   padding-left: 43%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 @keyframes animate-play {

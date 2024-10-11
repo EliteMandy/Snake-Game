@@ -1,2 +1,2 @@
 # snake-game-canvas-javascript
-this code will let you make a snake game using html canvas and js with ease
+(https://snake-game-2xe.pages.dev/)

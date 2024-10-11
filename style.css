@@ -131,7 +131,7 @@ body {
   font-family: "Press Start 2P", cursive;
   justify-content: center;
   justify-items: center;
-  margin-left: 43%;
+  padding-left: 43%;
 }
 
 @keyframes animate-play {

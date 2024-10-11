@@ -127,6 +127,8 @@ body {
   animation: animate-play 1.4s linear infinite;
 }
 .name{
+  background-color: grey;
+  padding: 5px;
   font-family: "Press Start 2P", cursive;
   justify-content: center;
   justify-items: center;

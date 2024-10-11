@@ -126,6 +126,12 @@ body {
   color: lightgreen;
   animation: animate-play 1.4s linear infinite;
 }
+.name{
+  font-family: "Press Start 2P", cursive;
+  justify-content: center;
+  justify-items: center;
+  
+}
 
 @keyframes animate-play {
   0% {
